@@ -1,24 +1,25 @@
+package step1;
 
 public class gmaejava2_01 {
 
 	public static void main(String[] args) {
 
 		
-		int i; //º¯¼ö¼±¾ð
+		int i; //ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 		float f;
 		double d;
 		char c;
 		boolean b;
 		
 		i=120;
-		f=12.23f; //f´Â floatÇü
+		f=12.23f; //fï¿½ï¿½ floatï¿½ï¿½
 		d=12.23;
 		c='a';
 		b=true;
 		
 		System.out.println("Date Practice Program");
 		System.out.println("-----------------------");
-		System.out.println("int :"+i); //°ª Ãâ·Â 
+		System.out.println("int :"+i); //ï¿½ï¿½ ï¿½ï¿½ï¿½ 
 		System.out.println("float :"+f);
 		System.out.println("double :"+d);
 		System.out.println("char :"+c);

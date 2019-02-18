@@ -1,4 +1,4 @@
-package gamejava3;
+package step2;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -12,8 +12,8 @@ public class gamejava3_03 {
 	BufferedReader in = new BufferedReader(isr);
 	
 	String str;
-	System.out.println("±Û¾¾¸¦ ÀÔ·ÂÇÏ½Ã¸é µû¶óÇÕ´Ï´Ù.");
-	str= in.readLine(); //Å°º¸µå·ÎºÎÅÍ ÇÑ ÁÙÀ» ÀÔ·Â¹ÞÀ½
+	System.out.println("ï¿½Û¾ï¿½ï¿½ï¿½ ï¿½Ô·ï¿½ï¿½Ï½Ã¸ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Õ´Ï´ï¿½.");
+	str= in.readLine(); //Å°ï¿½ï¿½ï¿½ï¿½Îºï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½Ô·Â¹ï¿½ï¿½ï¿½
 	System.out.println(str);
 
 	}
@@ -24,7 +24,7 @@ public class gamejava3_03 {
 /*
   
   
-  ¿¡¿ÜÃ³¸® ;;
+  ï¿½ï¿½ï¿½ï¿½Ã³ï¿½ï¿½ ;;
  
  
  

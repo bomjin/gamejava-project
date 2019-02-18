@@ -1,6 +1,6 @@
 package step1;
 
-public class gamejava2_02 {
+public class Gamejava2_02 {
 	
 	public static void main(String[] args) {
 		

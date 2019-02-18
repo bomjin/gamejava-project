@@ -3,7 +3,7 @@ package step1;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-public class gamejava2_04 {
+public class Gamejava2_04 {
 	public static void main(String[] args) {
 		
 Date today = new Date();
